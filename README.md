@@ -10,6 +10,9 @@ This repository contains assignment 10 using **HTML and CSS**.
 
 ## 📸 Project Preview
 
+![Assignment 10 Preview](images/image.png)
+
+
 
 
 ---
